@@ -1,0 +1,76 @@
+#+TITLE: Steel & RM Analytics Global Premiere
+#+OPTIONS: timestamp:nil num:nil toc:nil
+
+* Agenda
+  - Opening pumps
+  - Current Issues with Big Data
+  - Applied Value Analytics Platform
+  - Platform Demo
+  - Next Steps
+  - Next App
+  - Vision
+  - Closing remarks
+* Opening
+  “Do not go where the path may lead, go instead where there is no path and leave a trial.” 
+  
+--- Ralph Waldo Emerson
+* Current Issue with Big Data
+
+** End User Companies
+   #+ATTR_REVEAL: :frag (roll-in)
+   - Most Companies are facing the following challenge
+     + Can't ask the right data questions
+     + Don't know where to find supporting data facts
+     + Incapable of conducting correct data analysis
+     + Unable to draw insightful data driven conclusions
+   - The biggest Challenge is the difficulty to form a data-driven culture
+   - Doing too much with too little outcomes
+** Big Data Solution Providers
+   - Most Data Scientists
+     + Extremely high ego
+     + Don't know how to communicate well with the business world
+     + Showing off
+       * amazing models that most people can't understand
+       * artistic visualizations that most people can't read
+   - Doing too much with too little outcomes
+** Focus, Simplicity and Speed Revisited
+   - Focus
+     + AVA starts with laser-focus on one thing
+     + Build one thing well first
+   - Simplicity
+     + Sophisticated models explained in plain Language
+     + Visualization only to support communication
+   - Speed
+     + AGILE
+     + Lean Growth to ensure fast reaction to changes
+* Applied Value Analytics Platform
+** AVA's Niche in Steel and Raw Material Commodities Markets
+** Process Automation
+   - Consolidate data sources and automate data collection to minimize procurement costs. Data will be stored in all mainstream file formats.
+     + Consolidation of Steel Data Sources
+     + Automated Data Downloads
+     + Embedded Data Cleansing
+     + Centralized Repository
+     + Continuous Updates
+** Comprehensive Data Analysis
+   - Run statistical analysis to understand potential market drivers
+   - EDA (Exploratory Data Analysis)
+     + Comprehensive, user-friendly statistical analysis package
+     + Illustration of key stats (e.g. correlation, distribution, confidence interval etc.)
+     + Built-in indicators for quick data comprehension
+** Machine Learning/Deep Learning Forecasts
+   - Build forecasting model based on machine learning algorithms and update the model based on proper validation and expert input.
+   - Advanced time series and machine learning models
+   - Update model parameters based on validations
+   - Take in expert human input to adjust parameters
+   - Simulate different “what-if?” scenarios
+*** Forecasting
+*** AV Forecasting Benchmark
+** Visualization & Reports
+* Platform Demo
+* Next Steps
+* Next App
+* Vision
+* Closing
+The fact that we humans, who are ourselves mere collections of fundamental particles of nature, have been able to come this close to an understanding of the laws governing us and our universe is a great triumph, and I'm happy if I have made a small contribution. I want to share my excitement and enthusiasm about this quest.
+So remember to look up at the stars and not down at your feet. Try to make sense of what you see, and wonder about what makes the universe exist. Be curious. And however difficult life may seem, there's always something you can do and succeed at. It matters that you don't just give up. Where there's life, there's hope.
